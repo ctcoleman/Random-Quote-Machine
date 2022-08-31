@@ -1,0 +1,10 @@
+.QuoteCard {
+    width: 60vw;
+    margin: 10vh auto;
+}
+
+.card-buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
